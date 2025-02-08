@@ -45,10 +45,9 @@ print(flatten([[1, 2], [3, 4], [5, 6]]))  # Output: [1, 2, 3, 4, 5, 6]
 3️⃣ Can Take Any Number of Arguments
 - A lambda function can accept multiple arguments, but it can only evaluate one expression.
   
-4️⃣ Cannot Have return, while, for, or try-except
+4️⃣ Cannot Have return
 - You cannot use return (implicit return is always used).
-- Loops like for and while are not allowed inside a lambda.
-- Exception handling (try-except) is not possible.
+
 
 
 
